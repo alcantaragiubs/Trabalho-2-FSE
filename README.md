@@ -7,6 +7,12 @@ Trabalho 2 da disciplina de Fundamentos de Sistemas Embarcados - Controle de um 
 O trabalho envolve o desenvolvimento do software que efetua o controle completo de um elevador incluindo o controle de movimentação, acionamento dos botões internos e externos e monitoramento de temperatura. O movimento do elevador é controlado à partir de um motor elétrico e a posição é sinalizada à partir de sensores de posição e um encoder.
 O controle do elevador deve responder aos comandos dos usuários pelo botões externos (andares) ou internos (painel de botões do elevador).
 
+![image](https://github.com/FSE-2023-2/trabalho-2-2023-2-alcantaragiubs/assets/54143767/1fde9567-7076-4ced-bf4a-7617e57e0baa)
+
+![image](https://github.com/FSE-2023-2/trabalho-2-2023-2-alcantaragiubs/assets/54143767/58afab15-4521-4f5a-9b43-669ebdf7e8d5)
+
+![image](https://github.com/FSE-2023-2/trabalho-2-2023-2-alcantaragiubs/assets/54143767/11187791-b9ef-41d9-9023-54c97ca5f9b7)
+
 
 ## Apresentação
 
