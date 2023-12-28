@@ -1,0 +1,44 @@
+{
+    "DIR1": {
+        "name": "Direção 1",
+        "BCM": 20,
+        "Board": 38,
+        "mode": "OUT"
+    },
+    "DIR2": {
+        "name": "Direção 2",
+        "BCM": 21,
+        "Board": 40,
+        "mode": "OUT"
+    },
+    "POTM": {
+        "name": "Potência do Motor",
+        "BCM": 12,
+        "Board": 32,
+        "mode": "OUT"
+    },
+    "Sensor_Terreo": {
+        "name": "Sensor do Andar Térreo",
+        "BCM": 18,
+        "Board": 12,
+        "mode": "OUT"
+    },
+    "Sensor_1_andar": {
+        "name": "Sensor do 1 andar",
+        "BCM": 23,
+        "Board": 16,
+        "mode": "OUT"
+    },
+    "Sensor_2_andar": {
+        "name": "Sensor do 2 andar",
+        "BCM": 24,
+        "Board": 18,
+        "mode": "OUT"
+    },
+    "Sensor_3_andar": {
+        "name": "Sensor do 3 andar",
+        "BCM": 25,
+        "Board": 22,
+        "mode": "OUT"
+    }
+}
